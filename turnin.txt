@@ -1,0 +1,2 @@
+Step 1: Scp -r <project>/ oboxx@ubuntu.cse.unr.edu:<name of directory>/
+Step 2: ssh oboxx@ubuntu.cse.unr.edu
